@@ -341,3 +341,7 @@ a.title-permalink:hover {
     padding-bottom: 10px;
   }
 }
+/* 百度流量统计小图标隐藏 */
+img[src="http://eiv.baidu.com/hmt/icon/21.gif"] {
+    display:none;
+}
